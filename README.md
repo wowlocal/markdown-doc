@@ -6,7 +6,6 @@
 - [Other modules description](other-modules-description)
 
 ## General information
-
 ### Architecture
 Core approach for skeleton architecture is [VIPER](https://github.com/strongself/The-Book-of-VIPER).
 ### Network communication
