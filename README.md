@@ -1,9 +1,9 @@
 ## Quick overview
-- [General information ](general-information)
-- [File structure](file-structure)
-- [VIPER overview](viper-overview)
-- [VIPER detailed](viper-detailed)
-- [Other modules description](other-modules-description)
+- [General information ](#general-information)
+- [File structure](#file-structure)
+- [VIPER overview](#viper-overview)
+- [VIPER detailed](#viper-detailed)
+- [Other modules description](#other-modules-description)
 
 ## General information
 ### Architecture
