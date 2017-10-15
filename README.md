@@ -1,6 +1,9 @@
 ## Quick overview
-- [General information ](#general-information)
+- [General information](#general-information)
   - [Architecture](#architecture)
+  - [Network communication](#network-communication)
+  - [Security](#security)
+  - [UI](#ui)
 - [File structure](#file-structure)
 - [VIPER overview](#viper-overview)
 - [VIPER detailed](#viper-detailed)
