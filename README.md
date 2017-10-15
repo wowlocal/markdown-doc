@@ -27,11 +27,9 @@ Layout interface programmatically [Snap Kit](https://github.com/SnapKit/SnapKit)
 │   │       └── TransferProtocol
 │   │           └── Protofiles
 │   └── Services
-├── Controller
 ├── Helpers
 │   └── TransitionHandler
 ├── ModelLayer
-│   ├── CorporateManagement.xcdatamodeld
 │   └── Enitites
 ├── Modules
 │   └── TaskProcessTracking
