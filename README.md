@@ -1,5 +1,6 @@
 ## Quick overview
 - [General information ](#general-information)
+  - [Architecture](#architecture)
 - [File structure](#file-structure)
 - [VIPER overview](#viper-overview)
 - [VIPER detailed](#viper-detailed)
