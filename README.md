@@ -13,11 +13,12 @@
 ### Architecture
 Core approach for skeleton architecture is [VIPER](https://github.com/strongself/The-Book-of-VIPER).
 ### Network communication
-App use web socket for connection and custom data transfer protocol for parsing bytes from socket.  
+App use web socket for connection and custom data transfer protocol for parsing bytes from socket. Socket communicates with services via RxSwift.
 ### Security
 For handshake used RSA cryptography, and AES for session token.
 ### UI
 Layout interface programmatically [Snap Kit](https://github.com/SnapKit/SnapKit) instead using storyboard. Tables are made with [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView).
+
 ## File structure
 ```
 ├── BusinessLogicLayer
@@ -45,3 +46,6 @@ Layout interface programmatically [Snap Kit](https://github.com/SnapKit/SnapKit)
 ├── ServicesAssemblyLayer
 └── Singletones
 ```
+
+## VIPER overview
+
