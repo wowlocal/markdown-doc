@@ -4,7 +4,7 @@
 - [VIPER overview](viper-overview)
 - [VIPER detailed](viper-detailed)
 - [Other modules description](other-modules-description)
----
+
 ## General information
 
 ### Architecture
