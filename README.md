@@ -18,3 +18,32 @@ App use web socket for connection and custom data transfer protocol for parsing 
 For handshake used RSA cryptography, and AES for session token.
 ### UI
 Layout interface programmatically [Snap Kit](https://github.com/SnapKit/SnapKit) instead using storyboard. Tables are made with [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView).
+## File structure
+```
+├── BusinessLogicLayer
+│   ├── CoreComponents
+│   │   ├── Cryprography
+│   │   └── Socket
+│   │       └── TransferProtocol
+│   │           └── Protofiles
+│   └── Services
+├── Controller
+├── Helpers
+│   └── TransitionHandler
+├── ModelLayer
+│   ├── CorporateManagement.xcdatamodeld
+│   └── Enitites
+├── Modules
+│   └── TaskProcessTracking
+│       ├── Assembly
+│       ├── Interactor
+│       ├── Presenter
+│       │   └── PresenterState
+│       ├── Router
+│       └── View
+│           └── Cells
+├── Protocols
+├── Resources
+├── ServicesAssemblyLayer
+└── Singletones
+```
